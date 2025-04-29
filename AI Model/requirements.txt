@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+mysql-connector-python
+beautifulsoup4
+requests
+
+pip install -r requirements.txt
